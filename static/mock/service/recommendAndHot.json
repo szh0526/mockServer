@@ -1,0 +1,77 @@
+{
+  "code": "200",
+  "msg": "请求接口成功",
+  "data": {
+    "scales": [
+      {
+        "count": 325890,
+        "scalePoolId": 75,
+        "name": "职业性格测评",
+        "shortDescribe": "你的性格，适合什么样的工作？",
+        "introPicture": "https://imgco.xinli001.com/ceping/lingxi/scalePool/090b3521e678443bbfaa65f62f8d15ec.png?x-oss-process=image/resize,p_60/quality,Q_80",
+        "category": "职场",
+        "originalPrice": 99,
+        "discountPrice": 9.9,
+        "viewPromotionStyle": 0,
+        "scaleType": 6,
+        "updateTime": "2019-05-06 20:28:37",
+        "countDesc": "32.6w人已测",
+        "questionNum": 94
+      },
+      {
+        "count": 83125,
+        "scalePoolId": 355,
+        "name": "童年阴影评估",
+        "shortDescribe": "童年受过的伤害，改变了你什么？",
+        "introPicture": "https://imgco.xinli001.com/ceping/lingxi/scalePool/0cdb60011951499a88ae7c304e8659b4.jpg?x-oss-process=image/resize,p_60/quality,Q_80",
+        "category": "健康",
+        "originalPrice": 96,
+        "discountPrice": 9.9,
+        "viewPromotionStyle": 0,
+        "scaleType": 6,
+        "updateTime": "2018-10-28 17:20:51",
+        "countDesc": "8.3w人已测",
+        "questionNum": 55
+      },
+      {
+        "count": 83369,
+        "scalePoolId": 101,
+        "name": "气质类型测评",
+        "shortDescribe": "在别人眼里，你拥有哪种独特的气质？",
+        "introPicture": "https://imgco.xinli001.com/ceping/lingxi/scalePool/4047bba5fc184712b91c696bf2f6bd5f.jpg?x-oss-process=image/resize,p_60/quality,Q_80",
+        "category": "性格",
+        "originalPrice": 99,
+        "discountPrice": 9.9,
+        "viewPromotionStyle": 0,
+        "scaleType": 6,
+        "updateTime": "2019-03-05 18:42:34",
+        "countDesc": "8.3w人已测",
+        "questionNum": 73
+      },
+      {
+        "count": 157887,
+        "scalePoolId": 353,
+        "name": "抑郁测试（专业版）",
+        "shortDescribe": "测测你的抑郁有多深？",
+        "introPicture": "https://imgco.xinli001.com/ceping/lingxi/scalePool/d874a16e86404d1ebbd5876334950296.png?x-oss-process=image/resize,p_60/quality,Q_80",
+        "category": "健康",
+        "originalPrice": 79,
+        "discountPrice": 9.9,
+        "viewPromotionStyle": 0,
+        "scaleType": 6,
+        "updateTime": "2019-03-27 17:32:47",
+        "countDesc": "15.8w人已测",
+        "questionNum": 28
+      }
+    ],
+    "recommends": [
+      "情商",
+      "心理健康",
+      "抑郁",
+      "性",
+      "童年阴影",
+      "内向",
+      "自卑"
+    ]
+  }
+}

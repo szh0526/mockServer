@@ -1,0 +1,41 @@
+{
+  "code": "200",
+  "msg": "请求接口成功",
+  "data": [
+    {
+      "channelId": 99,
+      "scalePoolId": 501,
+      "name": "专业爱情测评（专业版）",
+      "introPicture": "https://imgco.xinli001.com/ceping/lingxi/scalePool/92a1fcdc5977412d81aa8f1bf667a955.png",
+      "redirectUrl": "https://hd.xinli001.cc/cp/index.html?init=21#/detail/501?channelId=99"
+    },
+    {
+      "channelId": 99,
+      "scalePoolId": 145,
+      "name": "爱情准备度评估",
+      "introPicture": "https://imgco.xinli001.com/ceping/lingxi/scalePool/54d2131a2ea24a5080e3fe60681154cd.png",
+      "redirectUrl": "https://hd.xinli001.cc/cp/index.html?init=21#/detail/145?channelId=99"
+    },
+    {
+      "channelId": 99,
+      "scalePoolId": 266,
+      "name": "爱情态度测评",
+      "introPicture": "https://imgco.xinli001.com/ceping/lingxi/scalePool/86dc8e19a799403d8422d7515c58083d.png",
+      "redirectUrl": "https://hd.xinli001.cc/cp/index.html?init=21#/detail/266?channelId=99"
+    },
+    {
+      "channelId": 99,
+      "scalePoolId": 385,
+      "name": "爱情依赖度评估",
+      "introPicture": "https://imgco.xinli001.com/ceping/lingxi/scalePool/cc3824c53dde48228b281850039afd67.png",
+      "redirectUrl": "https://hd.xinli001.cc/cp/index.html?init=21#/detail/385?channelId=99"
+    },
+    {
+      "channelId": 99,
+      "scalePoolId": 417,
+      "name": "爱情冲突类型评估",
+      "introPicture": "https://imgco.xinli001.com/ceping/lingxi/scalePool/67fbb44021404279a1bd4b26d719b1cb.png",
+      "redirectUrl": "https://hd.xinli001.cc/cp/index.html?init=21#/detail/417?channelId=99"
+    }
+  ]
+}

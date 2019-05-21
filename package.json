@@ -1,0 +1,28 @@
+{
+  "name": "wechat-answer-uni-app-node",
+  "version": "1.0.0",
+  "description": "wechat-answer-uni-app-node",
+  "keywords": [
+    "wechat-answer-uni-app-node"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "zehao.sun"
+  },
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/szh0526/wechat-answer-uni-app-node.git"
+  },
+  "private": true,
+  "scripts": {
+    "mock": "export DEBUG_WITH_MOCK=1 && npm start",
+    "start": "export NODE_ENV=test && node app"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "body-parser": "1.19.0",
+    "cookie-parser": "1.4.4",
+    "express": "4.17.0"
+  }
+}
