@@ -1,0 +1,38 @@
+{
+  "code": "200",
+  "msg": "请求接口成功",
+  "data": [
+    {
+      "categoryId": 1,
+      "name": "性格"
+    },
+    {
+      "categoryId": 2,
+      "name": "情感"
+    },
+    {
+      "categoryId": 3,
+      "name": "职场"
+    },
+    {
+      "categoryId": 4,
+      "name": "健康"
+    },
+    {
+      "categoryId": 5,
+      "name": "人际"
+    },
+    {
+      "categoryId": 6,
+      "name": "亲子"
+    },
+    {
+      "categoryId": 7,
+      "name": "能力"
+    },
+    {
+      "categoryId": 8,
+      "name": "趣味H5"
+    }
+  ]
+}
